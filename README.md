@@ -7,6 +7,6 @@
 
 
 # Contact me
-### Email: zippy0626@gmail.com
+#### Email: zippy0626@gmail.com
 
-### Portfolio Website: Coming Soon
+#### Portfolio Website: Coming Soon
