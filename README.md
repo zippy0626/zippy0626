@@ -2,7 +2,11 @@
 
 `Web Developer`
 
-Hi!
+Hi, Im Michael. I'm a Math major who wants to specialize in full-stack development.
+
+I'm aiming to build apps that solve problems and make a difference for others.
+
+Currently you'll find projects that are for personal learning, experimenting, or just for fun.
 
 # Tools I've Used
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
