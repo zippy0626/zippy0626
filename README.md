@@ -2,7 +2,7 @@
 
 `Web Developer`
 
-Hi, Im Michael. I'm a Math major who wants to specialize in full-stack development.
+Hi, Im Michael. I'm a Math major who is specializing in full-stack development.
 
 I'm aiming to build apps that solve problems and make a difference for others.
 
