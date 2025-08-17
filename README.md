@@ -4,7 +4,7 @@
 
 Hi, Im Michael. I'm a Math major who is specializing in full-stack development.
 
-I'm aiming to make stuff that solve problems and make a difference for others.
+I'm aiming to make projects that solve problems and make a difference for others.
 
 Currently you'll find projects that are for personal learning, experimenting, or just for fun.
 
